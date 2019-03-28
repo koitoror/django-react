@@ -1,4 +1,4 @@
-# PET-STORE
+# CLOTHE-STORE
 [![Build Status](https://travis-ci.org/koitoror/django-react.svg?branch=ch-setup-continuous-coverage)](https://travis-ci.org/koitoror/django-react) [![Coverage Status](https://coveralls.io/repos/github/koitoror/django-react/badge.svg?branch=ch-setup-continuous-coverage)](https://coveralls.io/github/koitoror/django-react?branch=ch-setup-continuous-coverage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a80a9487009409896d40951636ff8aa)](https://www.codacy.com/app/koitoror/django-react?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=koitoror/django-react&amp;utm_campaign=Badge_Grade)
 ### Prerequisites
 the development process utilized the postgres database
