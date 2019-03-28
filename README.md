@@ -1,5 +1,5 @@
 # PET-STORE
-[![Build Status](https://travis-ci.org/koitoror/clothe-store.svg?branch=ch-setup-continuous-coverage)](https://travis-ci.org/koitoror/clothe-store) [![Coverage Status](https://coveralls.io/repos/github/koitoror/clothe-store/badge.svg?branch=ch-setup-continuous-coverage)](https://coveralls.io/github/koitoror/clothe-store?branch=ch-setup-continuous-coverage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a80a9487009409896d40951636ff8aa)](https://www.codacy.com/app/koitoror/clothe-store?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=koitoror/clothe-store&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/koitoror/django-react.svg?branch=ch-setup-continuous-coverage)](https://travis-ci.org/koitoror/django-react) [![Coverage Status](https://coveralls.io/repos/github/koitoror/django-react/badge.svg?branch=ch-setup-continuous-coverage)](https://coveralls.io/github/koitoror/django-react?branch=ch-setup-continuous-coverage) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a80a9487009409896d40951636ff8aa)](https://www.codacy.com/app/koitoror/django-react?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=koitoror/django-react&amp;utm_campaign=Badge_Grade)
 ### Prerequisites
 the development process utilized the postgres database
 install pipenv using pip
@@ -18,9 +18,9 @@ pip install pipenv
 ### Insatallation
 clone the repository
 ```
-git clone https://github.com/koitoror/clothe-store.git
+git clone https://github.com/koitoror/django-react.git
 ``` 
-cd into the clothe-store directory and run the command to install all requirements from Pipfile.lock
+cd into the django-react directory and run the command to install all requirements from Pipfile.lock
 ```
 pipenv install
 ```
